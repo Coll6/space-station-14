@@ -10,7 +10,7 @@
     sprite: Mobs/Species/Oozeling/parts.rsi
     state: full
   - type: Body
-    prototype: Slime
+    prototype: Ooze
     requiredLegs: 2
   - type: Butcherable
     butcheringType: Spike
